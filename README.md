@@ -8,3 +8,11 @@ TODO:
 - build simple structures (gliders, guns, stoppers, etc)
 - use simple structures to build logic gates
 -- ...
+
+File Structure:
+- one file simply runs the display in pygame
+- another file houses the logic for the game
+- at some point another file should hold an input style for the game, ie how to create patterns
+
+- should there be some sort of pattern class inheritance to make creation easier?
+ - cross that bridge later
